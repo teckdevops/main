@@ -22,4 +22,4 @@ Please follow below steps to start an EC2 instance via AWS Management Console
 Login to AWS Management console and select EC2 from available services. 
 
  
-![EC2](https://github.com/teckdevops/main/blob/master/images/1SelectEC2.JPG)
+![EC2]({{ site.baseurl }}/images/1SelectEC2.JPG)
