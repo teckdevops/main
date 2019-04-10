@@ -8,5 +8,5 @@ defaults:
       path: "posts"
       type: "pages"
     values:
-      permalink: "/:title"
+      permalink: "/:basename"
 #baseurl: teckdevOps
