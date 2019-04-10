@@ -1,5 +1,12 @@
 theme: jekyll-theme-architect
 #Setting permanent link
-permalink: "/:title"
+#permalink: "/:title"
 
+defaults:
+  -
+    scope:
+      path: "posts"
+      type: "pages"
+    values:
+      permalink: "/:title"
 #baseurl: teckdevOps
