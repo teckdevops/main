@@ -1,12 +1,3 @@
 theme: jekyll-theme-modernist
 #Setting permanent link
-#permalink: "/:title"
-
-defaults:
-  -
-    scope:
-      path: "posts"
-      type: "pages"
-    values:
-      permalink: "/:basename"
-#baseurl: teckdevOps
+permalink: "/:title"
